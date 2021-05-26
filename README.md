@@ -1,1 +1,1 @@
-# PG
+# Final project for population genomics
